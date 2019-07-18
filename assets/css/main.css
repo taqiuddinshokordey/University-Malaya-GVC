@@ -559,7 +559,8 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
   #home .signup-form {
     background-color: #fff;
     padding: 20px;
-    border-radius: 5px; }
+    border-radius: 5px;
+    border: 1px solid rgb(198, 217, 230); }
     #home .signup-form input {
       border: 1px solid #eee;
       height: 38px;
@@ -794,6 +795,7 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
            Contact
 ========================================*/
 #contact {
+  border: 3px solid #eee;
   text-align: center; }
   #contact .contact-info {
     position: relative;
